@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Days of the Week</title>
+  <link rel="stylesheet" type="text/css" href="days.css">
 </head>
 <body>
 <h1>Days of the Week</h1>
